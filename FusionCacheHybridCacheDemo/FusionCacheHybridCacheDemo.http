@@ -1,3 +1,7 @@
 @FusionCacheHybridCacheDemo_HostAddress = https://localhost:7032
 
 GET {{FusionCacheHybridCacheDemo_HostAddress}}/currencies/no-cache
+
+###
+
+GET {{FusionCacheHybridCacheDemo_HostAddress}}/currencies/hybrid-cache
